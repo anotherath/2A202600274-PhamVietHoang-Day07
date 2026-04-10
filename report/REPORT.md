@@ -1,7 +1,7 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
-**Họ tên:** [Tên sinh viên]
-**Nhóm:** [Tên nhóm]
+**Họ tên:** Phạm Việt Hoàng
+**Nhóm:** Vinfast c2
 **Ngày:** 10/04/2026
 
 ---
